@@ -1024,13 +1024,15 @@ blockquote footer {
 }
 
 .btn.btn-small {
-    font-size: 0.875rem;
+    font-size: 16px;
+    font-weight: 600;
 }
 
 .btn.btn-small.btn-with-icon > svg {
-    width: 0.8125rem;
+    width: 2rem;
     min-width: 0.8125rem;
     height: 0.8125rem;
+    max-width: 80%;
 }
 
 .btn.btn-small > img {
